@@ -1,0 +1,1 @@
+Não funciona porque a sobrecarga não pode usar o tipo de retorno como critério, eles vão ser considerados o mesmo metodo e dará erro na compilação.

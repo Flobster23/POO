@@ -1,0 +1,2 @@
+O problema está em ob.cont = 10, o cont não pode ser acessado diretamente, deve-se usar o metodo setCont da seguinte forma: 
+	ob.setCont(10);

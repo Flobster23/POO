@@ -1,0 +1,1 @@
+private static <tipo> <nome da variavel>
