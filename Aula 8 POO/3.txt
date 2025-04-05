@@ -1,0 +1,1 @@
+O atributo i foi definido como private para impedir que outras classes acessem ele. Enquanto o metodo ajustar foi definido como protect para permitir que subclasses acessem ele e o moddifiquem

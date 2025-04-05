@@ -1,0 +1,1 @@
+Sera impresso "Notebook()", "computador()" e "codigo: 12345". É impresso tudo isso pois a classe notebook erda a classe computador, resultando nessas saidas.
