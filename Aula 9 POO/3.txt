@@ -1,0 +1,1 @@
+Não, a chamada do super() deve ser a primeira instrução dentro de um construtor de uma subclasse.

@@ -1,0 +1,3 @@
+b) m1(), m2() e m3().
+c) todos os métodos.
+d) todos menos o m1().
