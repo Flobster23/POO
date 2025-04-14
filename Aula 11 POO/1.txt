@@ -1,0 +1,4 @@
+a classe UsaOficina cria uma oficina e recebe 4 carros nela, cada um por cada vez quer executa o for, dentro do for é feito o calculo do proximo
+veículo, que consiste em pegar um numero aleatório de 0 a 100, se ele for par então é criado um novo objeto automovel, se for impar é criado um novo
+objeto bicicleta, depois disso é feito a revisão do objeto que acabou de ser criado, que consiste em ativar as funções verificar, ajustar e limpar
+do objeto que pode ser do tipo bicicleta ou automóvel.  
