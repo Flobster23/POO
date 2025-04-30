@@ -1,1 +1,1 @@
-O atributo i foi definido como private para impedir que outras classes acessem ele. Enquanto o metodo ajustar foi definido como protect para permitir que subclasses acessem ele e o moddifiquem
+O atributo i foi definido como private para impedir que outras classes acessem ele. Enquanto o metodo ajustar foi definido como protect para permitir que subclasses acessem ele e o moddifiquem. A saida do programa sera x:8 e x:12 porque como o metodo ajustar é protected, mas ProtegidoSub é uma subclasse de Protegido, ele pode usar o método protected.
