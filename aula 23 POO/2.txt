@@ -1,0 +1,1 @@
+Não, para usar tipos primitivos deve-se utilizar seu wrapper correspondente.
